@@ -4,11 +4,11 @@ Combined with html,css and javascript
  A task app that performs CRUD and store the data in localstorage.
   
 ########## Adding task to list ###########
-![Initial stage](./images/create.png) 
-![Adding Item](images/Screenshot from 2023-11-28 21-45-38.png)
+![Initial stage](./images/read.png) 
+![Adding Item](./images/create.png)
 
 ######  Marking the complete task.######
-![marked item](images/Screenshot from 2023-11-28 21-45-46.png)
+![marked item](./images/update.png)
 
 ##### Deleting task ######
-![Delete](images/Screenshot from 2023-11-28 21-45-55.png)
+![Delete](./images/delete.png)
